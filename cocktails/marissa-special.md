@@ -4,7 +4,7 @@ _gin, fresh grapefruit juice, and rosemary cardamom simple syrup_
 
 ## Notes
 
-This is my wife's signature cocktail, and it's amazing.
+This is my wife, [Marissa's](https://www.instagram.com/marissamsmith/), signature cocktail, and it's amazing.
 
 Pro Tip: If you're not a fan of gin, substitute it with rye whiskey.
 
