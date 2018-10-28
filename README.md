@@ -8,14 +8,14 @@ This is a collection of my personal recipes. Some are from my family and others
  stable, though I do occasionally iterate on them. They live here to share with
  everyone, and so I can find them. Enjoy! 😀
 
-## Baking
+## Baking 🍞🍕🍪🍰🥞
 
 * [Buttermilk Pancakes 🥞](/baking/buttermilk-pancakes.md)
 * [Grandma's Christmas Cookies](/baking/grandmas-christmas-cookies.md)
 * [Pizza](/baking/pizza.md)
 * [Pumpkin Scones](/baking/pumpkin-scones.md)
 
-## Cocktails
+## Cocktails 🍹🍸🥃
 
 * [Ice Cubes](/cocktails/ice-cubes.md)
 * [Marissa Special](/cocktails/marissa-special.md)
