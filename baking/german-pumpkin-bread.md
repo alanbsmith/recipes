@@ -1,8 +1,8 @@
-# Doris' German Pumpkin Bread
+# Doris Henson's German Pumpkin Bread
 
 ## Yield
 
-* 2 loaves (6ｘ9 pans)
+* 2 loaves (5ｘ9 baking dish)
 
 ## Wet Ingredients
 
