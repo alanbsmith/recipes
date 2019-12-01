@@ -13,6 +13,7 @@ This is a collection of my personal recipes. Some are from my family and others
 * [Buttermilk Pancakes 🥞](/baking/buttermilk-pancakes.md)
 * [Grandma's Christmas Cookies](/baking/grandmas-christmas-cookies.md)
 * [German Pumpkin Bread](/baking/german-pumpkin-bread.md)
+* [Oatmeal Raisin Cookies](/baking/oatmeal-raisin-cookies.md)
 * [Pizza](/baking/pizza.md)
 * [Pumpkin Scones](/baking/pumpkin-scones.md)
 
