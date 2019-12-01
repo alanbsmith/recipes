@@ -2,9 +2,9 @@
 
 ## Notes
 
-Prep time: 10 minutes
-Cook time: 10-12 minutes
-Yield: ~18 cookies
+* Prep time: 10 minutes
+* Cook time: 10-12 minutes
+* Yield: ~18 cookies
 
 ## Ingredients
 
