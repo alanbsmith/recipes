@@ -15,7 +15,7 @@ This is a collection of my personal recipes. Some are from my family and others
 * [German Pumpkin Bread](/baking/german-pumpkin-bread.md)
 * [Oatmeal Raisin Cookies](/baking/oatmeal-raisin-cookies.md)
 * [Pie Crust](/baking/pie-crust.md)
-* [Pizza](/baking/pizza.md)
+* [Pizza](/baking/pizza.md) [Deprecated]
 * [Pumpkin Scones](/baking/pumpkin-scones.md)
 
 ## Cocktails 🍹🍸🥃

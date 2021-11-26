@@ -1,4 +1,8 @@
-# Pizza Recipe
+# Pizza Recipe [Deprecated]
+
+## Deprecated
+
+This recipe is deprecated and needs to be updated.
 
 ## Notes
 
