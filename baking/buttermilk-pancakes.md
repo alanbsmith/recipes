@@ -8,7 +8,7 @@ These pancakes come out pretty thick, so they do well with fruit added. I person
 
 ## Yield
 
-~8-10 pancakes
+8 (5") pancakes
 
 ## Ingredients
 
