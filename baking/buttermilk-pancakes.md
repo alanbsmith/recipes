@@ -8,24 +8,22 @@ These pancakes come out pretty thick, so they do well with fruit added. I person
 
 ## Yield
 
-~8 pancakes
+~8-10 pancakes
 
 ## Ingredients
 
 ### Dry Ingredients
 
 * 2 cups all-purpose flour (250g)
-* 3 tbsp sugar
-* 1½ tsp baking powder
-* 1½ tsp baking soda
-* 1¼ tsp salt
+* 2 tbsp sugar
+* 2 tsp baking soda
+* ½ tsp salt
 
 ### Wet Ingredients
 
-* 2 cups whole milk
-* 4 tbsp distilled white vinegar
+* 2 cups buttermilk
 * 2 large eggs
-* 3 tbsp unsalted butter, melted
+* 2 tbsp unsalted butter, melted
 
 ## Instructions
 
