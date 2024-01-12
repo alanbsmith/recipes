@@ -10,6 +10,7 @@ This is a collection of my personal recipes. Some are from my family and others
 
 ## Baking 🍞🍕🍪🍰🥞
 
+* [Blueberry Muffins](/baking/blueberry-muffins.md)
 * [Buttermilk Pancakes 🥞](/baking/buttermilk-pancakes.md)
 * [Grandma's Christmas Cookies](/baking/grandmas-christmas-cookies.md)
 * [German Pumpkin Bread](/baking/german-pumpkin-bread.md)
